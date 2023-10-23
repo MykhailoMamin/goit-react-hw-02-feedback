@@ -1,5 +1,5 @@
 import css from './FeedbackOptions.module.css';
-import { Section } from './Section';
+import { Section } from 'components/Section/Section';
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
